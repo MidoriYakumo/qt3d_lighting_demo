@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Box.qml</file>
+        <file>GlassBox.qml</file>
+        <file>GlassPhongMaterial.qml</file>
+        <file>light.inc.frag</file>
+        <file>Materials.qml</file>
+        <file>phong.vert</file>
+        <file>phongglass.frag</file>
+        <file>skybox_negx.jpg</file>
+        <file>skybox_negy.jpg</file>
+        <file>skybox_negz.jpg</file>
+        <file>skybox_posx.jpg</file>
+        <file>skybox_posy.jpg</file>
+        <file>skybox_posz.jpg</file>
+    </qresource>
+</RCC>
